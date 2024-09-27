@@ -8,9 +8,9 @@
     "dev":"nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kiruthika",
   "license": "ISC",
-  "description": "",
+  "description": "crud using backend",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
